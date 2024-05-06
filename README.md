@@ -1,10 +1,10 @@
 # Credit-Risk-Modelling using Machine Learning
 
-## Overview
+## Overview:
 
 - The project focused on developing a reliable credit risk modeling system using advanced machine learning techniques to optimize the bank's lending strategy. The primary goals is to identify patterns that indicate if a person is unlikely to repay a loan (i.e., labeled as a bad risk) and to implement machine learning algorithms to build predictive models for loan risk assessment.
 
-## Methodologies
+## Methodologies:
 
 **1. Data Exploration and Preprocessing**: Examined the dataset and performed data cleaning, transformation, and feature engineering for model input.
 
@@ -22,7 +22,7 @@
 
 **2. Machine Learning Algorithms**: Logistic Regression, Decision Trees, Random Forest, Extra Trees, XGBoost.
 
-### Outcomes
+## Outcomes:
 
 **1. Best Model Selection**: Concluded that the XGBoost Classifier was the best model for predicting loan risk due to its high ROC-AUC score compared to other models.
 
