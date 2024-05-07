@@ -16,7 +16,7 @@
 
 **5. Feature Importance Analysis**: Identified the top features impacting loan risk, such as the total principal received, last payment amount, and total payment.
 
-## Technologies and Tools Used:
+## Tools and Technologies Used:
 
 **1. Packages**: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn.
 
