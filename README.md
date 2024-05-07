@@ -1,4 +1,4 @@
-# Credit-Risk-Modelling using Machine Learning
+# Credit Risk Modelling using Machine Learning
 
 ## Overview:
 
